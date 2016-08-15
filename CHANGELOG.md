@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Unreleased
+
+### Features
+
+- The SDK now supports JMESPath expressions that allow you to declaratively extract data from an API response.
+
 ## 5.0.0 - 2016-06-04
 
 ## Doc
